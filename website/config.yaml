@@ -46,13 +46,13 @@ params:
   descripe_l2_person: "This is my biodata [here](#projects)"
   skills:
     - name: make up
-      percentage: 70
+      percentage: 40
     - name: memasak
-      percentage: 75
+      percentage: 50
     - name: rebahan
       percentage: 80
     - name: belajar
-      percentage: 70
+      percentage: 65
 
   # Experience
   disable_experience: false
